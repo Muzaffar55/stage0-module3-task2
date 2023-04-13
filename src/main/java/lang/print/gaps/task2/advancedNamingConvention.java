@@ -13,4 +13,12 @@ public class advancedNamingConvention {
     void callByNumber(int number) {
         number = phoneNumber;
     }
+
+    public int getAge() {
+        return age;
+    }
+
+    public int getPhoneNumber() {
+        return phoneNumber;
+    }
 }
